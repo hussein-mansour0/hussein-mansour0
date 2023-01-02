@@ -1,13 +1,13 @@
 <h1 align="center">Hello World👋, I'm Hussein Mansour</h1>
 <h3 align="center">A passionate fullStack developer from Lebanon</h3>
 
-- 👀 I’m interested in Computer Science and Engineering
+<!-- - 👀 I’m interested in Computer Science and Engineering -->
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me **husseinfmansour@gmail.com** -->
 
-
-
+<h4 align="center">I’m interested in Computer Science and Engineering </h3>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/hussein-mansour0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-mansour0" height="30" width="40" /></a>
