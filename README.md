@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, I'm Hussein Mansour</h1>
-<h3 align="center">A passionate fullStack developer from Lebanon</h3>
+<h3 align="center">A Software Engineer from Lebanon</h3>
 
 <!-- - 👀 I’m interested in Computer Science and Engineering -->
 <!-- - 🌱 I’m currently learning  -->
