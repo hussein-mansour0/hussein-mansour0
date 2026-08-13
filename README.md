@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, I'm Hussein Mansour</h1>
-<h3 align="center">A Software Engineer, Systems Engineer, and Administrator from Lebanon</h3>
+<h3 align="center">A Software Engineer, Systems Engineer</h3>
 
 <h4 align="center">I’m passionate about Computer Science, Engineering, and Management</h4>
 <br>
